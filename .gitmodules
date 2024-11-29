@@ -1,0 +1,3 @@
+[submodule "src/src/Lab5/UserProfileApp"]
+	path = src/src/Lab5/UserProfileApp
+	url = https://github.com/edgardovictorino/femsa-mobile.git
